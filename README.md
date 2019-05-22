@@ -1,3 +1,7 @@
-A single page that loads the local weather stats using OpenWeather API!
+# Usage
 
-Made for a FreeCodeCamp Project: https://www.freecodecamp.com/
+A single page that pulls the local weather conditions from OpenWeatherMap API!
+
+Demo link [here](https://hridayns.github.io/demos/Local-Weather-Demo/).
+
+Made as a [FreeCodeCamp](https://www.freecodecamp.com/) Project.
